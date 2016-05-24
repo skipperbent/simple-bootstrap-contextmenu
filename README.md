@@ -3,7 +3,7 @@ Bootstrap Context Menu
 
 A context menu extension of Bootstrap made for everyone's convenience.
 
-Demo available here: https://rawgit.com/skipperbent/simple-bootstrap-contextmenu/master/index.html
+Demo available here: http://rawgit.com/skipperbent/simple-bootstrap-contextmenu/master/index.html
 
 Installation
 ------------
